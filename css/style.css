@@ -960,7 +960,10 @@ nav #navbar li a {
     .board .insideboard .index_page h1, .board .insideboard .index_page h2, .board .insideboard .index_page p {
       text-align: center; }
     .board .insideboard .index_page iframe {
-      margin-left: 60px; }
+      border: 10px solid #000;
+      border-radius: 30px;
+      display: block;
+      margin: auto; }
 
 /* Cards */
 #chest {

@@ -793,7 +793,10 @@
         }
         iframe
         {
-          margin-left: 60px;
+          border: 10px solid #000;
+          border-radius: 30px;
+          display: block;
+          margin: auto;
         }
       }
 // END INDEX PAGE CONTENT
